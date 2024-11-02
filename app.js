@@ -79,6 +79,12 @@ for (const btn of allBtn) {
     btn.addEventListener("click", btnPress);
 }
 
+
+
+
+
+
+
 function reset() {
     started = false;
     gameSeq = [];
