@@ -31,6 +31,8 @@ function userFlash(btn) {
     }, 250);
 }
 
+
+
 function levelUp() {
     userSeq = [];
     level++;
